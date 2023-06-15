@@ -24,7 +24,6 @@ import alpine.server.upgrade.AbstractUpgradeItem;
 import alpine.server.util.DbUtil;
 
 import java.sql.Connection;
-import java.sql.PreparedStatement;
 
 public class v490Updater extends AbstractUpgradeItem {
 
